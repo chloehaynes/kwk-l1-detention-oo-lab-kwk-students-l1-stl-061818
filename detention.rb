@@ -3,6 +3,6 @@
 
 class Detention
   def initialize(testlocation)
-    @testlocation
+    @testlocation = "Room 301"
   
 end
