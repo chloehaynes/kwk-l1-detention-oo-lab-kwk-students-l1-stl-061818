@@ -2,6 +2,7 @@
 
 
 class Detention
-  
+  def initialize(testlocation)
+    @testlocation
   
 end
